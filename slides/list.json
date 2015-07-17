@@ -1,0 +1,19 @@
+[
+    "index.md",
+    "purescript-into.md",
+    "records.md",
+    "records-continued.md",
+    "types.md",
+    "types-continued.md",
+    "type-classes.md",
+    "pattern-matching.md",
+    "various.md",
+    "virtual-dom.md",
+    "halogen.md",
+    "signales.md",
+    "composing-signals.md",
+    "applicative.md",
+    "accumulating-results.md",
+    "dom-templating.md",
+    "handling-user-events.md"
+]
